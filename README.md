@@ -1,14 +1,14 @@
 # Teste - Engenharia de Dados (Short Track)
 
-Teste técnico para posições em engenharia de dados (short track)
+Teste técnico para posições em Engenharia de Dados (short track)
 
 O seguinte teste tem por premissa ser um problema base (Ref. <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learningproblem">problem based learning</a>) de modo que você pode usá-lo como achar adequado tendo em vista a demonstração de seus conhecimentos técnicos.
 
-Queremos entender melhor seu jeito de atacar problemas desafiadores em amostras de mundo real, além de que, do modo que está estruturada, a entrega, apesar de rápida, nos permite verificar mais detalhes de seu perfil profissional tais como organização, pontualidade e percepção quanto a suas skills de data wrangling, validação e governança, programação Python e entendimento dos serviços AWS (em especial Aws Lambda e Amazon Redshift).
+Queremos entender melhor seu jeito de atacar problemas desafiadores em amostras de mundo real, além de que, do modo que está estruturada, a entrega, apesar de rápida, nos permite verificar mais detalhes de seu perfil profissional tais como organização, pontualidade e percepção quanto a suas skills de data wrangling, validação e governança, programação Python e entendimento dos serviços AWS (em especial Aws Lambda, Athena e Amazon Redshift).
 
 Recomendamos ainda que o teste seja feito em no máximo 6 horas (não se preocupe em respostas muito detalhadas ou em complexidades que simplesmente não funcionariam no mundo real!).
 
-As entregas devem ser via envio de link para um github público (ou similar) o qual contenha sua solução para o cenário a seguir. Favor não citar a Lambda3 em seu repositório.
+As entregas devem ser via envio de link para um github público (ou similar) o qual contenha sua solução para o cenário a seguir:
 
 ## Cenário
 
