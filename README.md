@@ -24,11 +24,11 @@ Os dados a serem ingeridos e analisados em nossa plataforma de Big Data são dad
 
 O resultado esperado é uma consulta que retorne o ganho total da empresa por cliente que é 1.198,77 para o cliente A e 1,08 para o cliente B, conforme a <a href="https://drive.google.com/file/d/1KJ9SvkcRX94YQDyKI01ivG-5N3lZp3T1/view?usp=sharing">Figura 2</a>.
 
-Assim sendo, seguem <a href="https://drive.google.com/file/d/1lqZZb9WgkyyL7qBZ5ZAPENVYoioK2hMs/view?usp=sharing">snippet de código</a> para criação da base de daddos e dos dados exemplos (via SQL Server).
+Assim sendo, seguem <a href="https://drive.google.com/file/d/1lqZZb9WgkyyL7qBZ5ZAPENVYoioK2hMs/view?usp=sharing">snippet de código</a> para criação da base de dados e dos dados exemplos (via SQL Server).
 
 -2) A segunda tarefa consiste em calcular o total líquido da empresa. Esse total é calculado da seguinte forma total_liquido = soma(total_bruto – desconto_percentual). O cálculo é baseado no conjunto de dados da <a href="https://drive.google.com/file/d/1vekbII5FYAB57mMTwU9I64XRCATD_XqF/view?usp=sharing">Figura 3</a>
 
-O resultado esperado é uma código com pyspark que retorne o total liquido da empresa XPTO que é 59973.46. 
+O resultado esperado é uma código com pyspark que retorne o total liquido da empresa que é 59973.46. 
 
 -3) O terceiro entregável consiste na transformação de dados disponíveis em <a href="https://drive.google.com/file/d/1IDCjpDZh5St97jw4K_bAewJ8hf-rax9C/view?usp=sharing">arquivo Json</a> para o formato de dataframe, algo comum no dia a dia da empresa. Após transformar esse Json em dataframe é possível perceber que a coluna "item_list" está como dicionário. Seu gestor pediu dois pontos de atenção nessa tarefa:
 
@@ -47,8 +47,8 @@ Lembre-se que, como parte dos entregáveis anteriores, esperamos que alguns come
 
 Ou seja, temos quatro entregáveis:
 
-- ;
-- ;
+- Consulta que retorne o ganho total da empresa por cliente;
+- Código com pyspark que retorne o total liquido;
 - Resolução de problema de transformação de dados (NF-e);
 - Arquitetura exemplo da ingestão anterior (ecossistema AWS);
 
