@@ -43,7 +43,7 @@ O resultado esperado é uma código com pyspark que retorne o total liquido da e
 
 Será apreciado como esforço extra se você conseguir avançar mais na aplicação além desse ponto.
 
-Lembre-se que, como parte dos entregáveis anteriores, esperamos que alguns comentários sejam incluídos em suas soluções prévias; queremos entender melhor como foi seu processo de solução de problemas, quais as hipóteses levantadas e, se tivesse mais tempo, como você poderia melhorar a implementação proposta 9desenvolvimento incremental).
+Lembre-se que, como parte dos entregáveis anteriores, esperamos que alguns comentários sejam incluídos em suas soluções prévias; queremos entender melhor como foi seu processo de solução de problemas, quais as hipóteses levantadas e, se tivesse mais tempo, como você poderia melhorar a implementação proposta (desenvolvimento incremental).
 
 Ou seja, temos quatro entregáveis:
 
