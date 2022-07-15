@@ -4,7 +4,7 @@ Teste técnico para posições em Engenharia de Dados (short track)
 
 O seguinte teste tem por premissa ser um problema base (Ref. <a href="https://teaching.cornell.edu/teaching-resources/engaging-students/problem-based-learningproblem">problem based learning</a>) de modo que você pode usá-lo como achar adequado tendo em vista a demonstração de seus conhecimentos técnicos.
 
-Queremos entender melhor seu jeito de atacar problemas desafiadores em amostras de mundo real, além de que, do modo que está estruturada, a entrega, apesar de rápida, nos permite verificar mais detalhes de seu perfil profissional tais como organização, pontualidade e percepção quanto a suas skills de data wrangling, validação e governança, programação Python e entendimento dos serviços AWS (em especial Aws Lambda, Athena e Amazon Redshift).
+Queremos entender melhor seu jeito de atacar problemas desafiadores em amostras de mundo real, além de que, do modo que está estruturada, a entrega, apesar de rápida, nos permite verificar mais detalhes de seu perfil profissional tais como organização, pontualidade e percepção quanto a suas skills de data wrangling, validação e governança, programação Python e entendimento dos serviços GCP (em especial Clod Run, BigQuery e BigTable).
 
 Recomendamos ainda que o teste seja feito em no máximo 6 horas (não se preocupe em respostas muito detalhadas ou em complexidades que simplesmente não funcionariam no mundo real!).
 
@@ -35,11 +35,11 @@ O resultado esperado é uma código com pyspark que retorne o total liquido da e
 - Expandir a coluna num mesmo dataframe;
 - Normalizar os itens dessa coluna de dicionário e dividí-los em dois dataframes separados, seguindo o modelo relacional.
 
--4) Imagine que o Json das notas fiscais é disponibilizado em uma API. Como você utilizaria as tecnologias da AWS para ingerir, transformar e, eventualmente, carregar esses dados em um banco de dados Redshift? O quarto entregável consiste na construção de uma arquitetura de ingestão dos dados de nota fiscal do entregável anterior (como visto <a href="https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/06/22/Screen-Shot-2020-06-19-at-15.00.38.png">aqui</a>), a qual deve atender aos seguintes pontos:
+-4) Imagine que o Json das notas fiscais é disponibilizado em uma API. Como você utilizaria as tecnologias da GCP para ingerir, transformar e, eventualmente, carregar esses dados em um banco de dados Redshift? O quarto entregável consiste na construção de uma arquitetura de ingestão dos dados de nota fiscal do entregável anterior (como visto <a href="https://www.crystalloids.com/hs-fs/hubfs/Screenshot%202022-02-04%20at%2009-44-40-png.png?width=1232&name=Screenshot%202022-02-04%20at%2009-44-40-png.png">aqui</a>), a qual deve atender aos seguintes pontos:
 
 - Esquemas de fluxo de dados;
 - Descrições de funcionamento (se necessário);
-- Nomes de tecnologias em ecossistema AWS (serviços, conectores, bibliotecas e módulos).
+- Nomes de tecnologias em ecossistema GCP (serviços, conectores, bibliotecas e módulos).
 
 Será apreciado como esforço extra se você conseguir avançar mais na aplicação além desse ponto.
 
@@ -50,7 +50,7 @@ Ou seja, temos quatro entregáveis:
 - Consulta que retorne o ganho total da empresa por cliente;
 - Código com pyspark que retorne o total liquido;
 - Resolução de problema de transformação de dados (NF-e);
-- Arquitetura exemplo da ingestão anterior (ecossistema AWS);
+- Arquitetura exemplo da ingestão anterior (ecossistema GCP);
 
 
 ## O que será avaliado?
