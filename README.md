@@ -10,13 +10,11 @@ Recomendamos ainda que o teste seja feito em no máximo 6 horas (não se preocup
 
 As entregas devem ser via envio de link para um github público (ou similar) o qual contenha sua solução para o cenário a seguir:
 
-
 ## Cenário
 
 No seguinte cenário você é a pessoa engenheira de dados por trás do projeto de data ops junto a uma grande operadora de cartões de crédito.
 
 Os dados a serem ingeridos e analisados em nossa plataforma de Big Data são dados de compras (trasacao), documentos (contrato) e dados de compradores (cliente).
-
 
 ## Entregáveis
 
@@ -51,7 +49,6 @@ Ou seja, temos quatro entregáveis:
 - Código com pyspark que retorne o total liquido;
 - Resolução de problema de transformação de dados (NF-e);
 - Arquitetura exemplo da ingestão anterior (ecossistema GCP);
-
 
 ## O que será avaliado?
 
